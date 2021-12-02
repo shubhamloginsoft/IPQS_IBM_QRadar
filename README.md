@@ -1,4 +1,4 @@
-# **User Guide:** Farsight DNSDB - IBM QRadar
+# **User Guide:** IPQS Fraud and Risk Scoring - IBM QRadar
 
 ## Table of Contents
 - [Introduction](#1-introduction)
